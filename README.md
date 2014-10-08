@@ -1,0 +1,2 @@
+# muteplaces-Android
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/IrishMan1921/muteplaces-Android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
